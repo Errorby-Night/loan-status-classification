@@ -6,19 +6,6 @@ This repository contains code for detecting loan status using multiple classific
 
 This project aims to predict loan approval status based on various features using several classification algorithms. The dataset used in this project contains information about applicants' demographics and financial details.
 
-## Setup
-
-Before running the code, make sure you have the following libraries installed:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-
-You can install these libraries using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
-```
 ## Usage
 ```bash
 git clone https://github.com/Errorby-Night/loan-status-classification
