@@ -42,7 +42,7 @@ The code evaluates the performance of the following classification algorithms:
 - Multi-layer Perceptron Classifier
 - Naive Bayes
 - Evaluation metrics include accuracy, precision, recall, and F1-score.
-
+![Results](src/output.png)
 
 ## Author
 Srijan Dutta
